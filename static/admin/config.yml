@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: thomaswang/gatsby-personal-starter-blog
+  repo: copypastepray/talktoducky-blog
 
 media_folder: content/assets
 public_folder: ../assets
